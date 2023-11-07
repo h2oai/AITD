@@ -32,7 +32,7 @@ torch==1.12.1
 tqdm==4.64.1
 transformers==4.22.1
 typing_extensions==4.5.0
-urllib3==1.26.14
+urllib3==1.26.18
 uvicorn==0.17.6
 vaderSentiment==3.3.2
 wordcloud==1.8.2.2
